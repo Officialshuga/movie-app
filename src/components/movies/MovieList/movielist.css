@@ -1,0 +1,12 @@
+.movie-list{
+    display: flex;
+    gap: 1.3rem;
+    overflow-x: scroll;
+    margin-top: 1.5rem;
+}
+.movies{
+    margin: 0px 10%;
+}
+.first-movie-row{
+    margin-top: 3rem;
+}

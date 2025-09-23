@@ -1,0 +1,376 @@
+{
+
+    "MovieName": [
+      { "id": 1, "title": "Iron Man", "image": "../../public/assets/waiter.png"},
+      { "id": 2, "title": "The Incredible Hulk", "image": "../../public/assets/waiter.png" },
+      { "id": 3, "title": "Thor", "image": "../../public/assets/waiter.png" },
+      { "id": 4, "title": "Captain America", "image": "../../public/assets/waiter.png"},
+      {"id": 5, "title": "The Avengers", "image": "../../public/assets/waiter.png"},
+      { "id": 6, "title": "Guardians of the Galaxy", "image": "../../public/assets/waiter.png" },
+      { "id": 7, "title": "Ant-Man", "image": "../../public/assets/waiter.png" },
+      { "id": 8, "title": "Doctor Strange", "image": "../../public/assets/waiter.png" },
+      { "id": 9, "title": "Spider-Man", "image": "../../public/assets/waiter.png"},
+      {"id": 10, "title": "Black Panther ", "image": "../../public/assets/waiter.png"},
+      { "id": 11, "title": "Captain Marvel", "image": "../../public/assets/waiter.png" }
+     
+    ],
+
+
+
+
+    "Mostwatched": [
+       {
+    "id": 7,
+    "catId": 1,
+    "title": "Ironman-3",
+    "movielink": "https://www.justwatch.com/in/movie/iron-man-3",
+    "image": "Ironman-3.jpg",
+    "video": "111.mp4",
+    "description": "After the Battle of New York, Tony Stark struggles with anxiety..."
+  },
+  {
+    "id": 8,
+    "catId": 3,
+    "title": "Thor-2",
+    "movielink": "https://www.justwatch.com/in/movie/thor-the-dark-world",
+    "image": "Thor-2.jpg",
+    "video": "111.mp4",
+    "description": "Thor battles to restore peace across the Nine Realms..."
+  },
+  {
+    "id": 9,
+    "catId": 4,
+    "title": "Captain America-2",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-the-winter-soldier",
+    "image": "CaptainAmerica-2.jpg",
+    "video": "111.mp4",
+    "description": "Steve Rogers, now working for S.H.I.E.L.D., struggles to adjust..."
+  },
+  {
+    "id": 10,
+    "catId": 6,
+    "title": "Guardians of the galaxy 1",
+    "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy",
+    "image": "Guardiansofthegalaxy-1.jpg",
+    "video": "111.mp4",
+    "description": "Space adventurer Peter Quill, also known as Star-Lord, steals a mysterious orb..."
+  },
+  {
+    "id": 15,
+    "catId": 6,
+    "title": "GotG-2",
+    "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy-vol-2",
+    "video": "111.mp4",
+    "image": "GotG-2.jpg",
+    "description": "The Guardians—Star-Lord, Gamora, Drax, Rocket, and Baby Groot—are hired for a mission..."
+  },
+  {
+    "id": 11,
+    "catId": 5,
+    "title": "Avengers 2",
+    "movielink": "https://www.justwatch.com/in/movie/avengers-age-of-ultron",
+    "image": "Avenger-2.jpg",
+    "video": "111.mp4",
+    "description": "The Avengers retrieve Loki’s scepter but accidentally create a powerful AI..."
+  },
+  {
+    "id": 12,
+    "catId": 7,
+    "title": "Antman-1",
+    "movielink": "https://www.justwatch.com/in/movie/ant-man",
+    "image": "Antman-1.jpg",
+    "video": "111.mp4",
+    "description": "Scott Lang, a skilled thief trying to turn his life around..."
+  },
+  {
+    "id": 13,
+    "catId": 4,
+    "title": "Captainamerica-3",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-civil-war",
+    "video": "111.mp4",
+    "image": "Captainamerica-3.jpg",
+    "description": "After a mission goes wrong, the government proposes the Sokovia Accords..."
+  }
+
+    ],
+   "Allmovie": [
+  {
+    "id": 5,
+    "catId": 4,
+    "title": "Captain America: The First Avenger",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-the-first-avenger",
+    "image": "CaptainAmerica-1.jpg",
+    "video": "Captain America1.mp4",
+    "description": "During World War II, Steve Rogers, a frail but determined man, is chosen for a secret experiment..."
+  },
+  {
+    "id": 21,
+    "catId": 11,
+    "title": "captainmarvel-1",
+    "movielink": "https://www.justwatch.com/in/movie/captain-marvel",
+    "video": "111.mp4",
+    "image": "captainmarvel-1.jpg",
+    "description": "Vers, a warrior of the Kree race, suffers from mysterious visions of a past she can’t remember..."
+  },
+  {
+    "id": 1,
+    "catId": 1,
+    "title": "Iron Man(2008)",
+    "image": "Ironman-1.jpg",
+    "movielink": "https://www.justwatch.com/in/movie/iron-man",
+    "video": "111.mp4",
+    "description": "Billionaire genius Tony Stark is captured by terrorists and forced to build a weapon..."
+  },
+  {
+    "id": 2,
+    "catId": 2,
+    "title": "The Incredible Hulk (2008)",
+    "movielink": "https://www.justwatch.com/in/movie/the-incredible-hulk",
+    "image": "hulk-1.jpg",
+    "video": "The Incredible Hulk 1.mp4",
+    "description": "Scientist Bruce Banner goes into hiding after a failed experiment..."
+  },
+  {
+    "id": 3,
+    "catId": 1,
+    "title": "Iron Man 2(2010)",
+    "movielink": "https://www.justwatch.com/in/movie/iron-man-2",
+    "image": "Ironman-2.jpg",
+    "video": "Iron Man 2.mp4",
+    "description": "With the world aware of his identity as Iron Man, Tony Stark faces pressure..."
+  },
+  {
+    "id": 4,
+    "catId": 3,
+    "title": "Thor(2011)",
+    "movielink": "https://www.justwatch.com/in/movie/thor",
+    "image": "Thor-1.jpg",
+    "video": "Thor 1.mp4",
+    "description": "Thor, the arrogant prince of Asgard, is banished to Earth..."
+  },
+  {
+    "id": 6,
+    "catId": 5,
+    "title": "Marvel’s The First Avengers (2012)",
+    "movielink": "https://www.justwatch.com/in/movie/the-avengers",
+    "image": "The_Avengers-1.jpg",
+    "video": "Marvel_s The Avengers 1.mp4",
+    "description": "When Loki, the Norse god of mischief, steals the Tesseract..."
+  },
+  {
+    "id": 7,
+    "catId": 1,
+    "title": "Ironman-3",
+    "movielink": "https://www.justwatch.com/in/movie/iron-man-3",
+    "image": "Ironman-3.jpg",
+    "video": "111.mp4",
+    "description": "After the Battle of New York, Tony Stark struggles with anxiety..."
+  },
+  {
+    "id": 8,
+    "catId": 3,
+    "title": "Thor-2",
+    "movielink": "https://www.justwatch.com/in/movie/thor-the-dark-world",
+    "image": "Thor-2.jpg",
+    "video": "111.mp4",
+    "description": "Thor battles to restore peace across the Nine Realms..."
+  },
+  {
+    "id": 9,
+    "catId": 4,
+    "title": "Captain America-2",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-the-winter-soldier",
+    "image": "CaptainAmerica-2.jpg",
+    "video": "111.mp4",
+    "description": "Steve Rogers, now working for S.H.I.E.L.D., struggles to adjust..."
+  },
+  {
+    "id": 10,
+    "catId": 6,
+    "title": "Guardians of the galaxy 1",
+    "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy",
+    "image": "Guardiansofthegalaxy-1.jpg",
+    "video": "111.mp4",
+    "description": "Space adventurer Peter Quill, also known as Star-Lord, steals a mysterious orb..."
+  },
+  {
+    "id": 15,
+    "catId": 6,
+    "title": "GotG-2",
+    "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy-vol-2",
+    "video": "111.mp4",
+    "image": "GotG-2.jpg",
+    "description": "The Guardians—Star-Lord, Gamora, Drax, Rocket, and Baby Groot—are hired for a mission..."
+  },
+  {
+    "id": 11,
+    "catId": 5,
+    "title": "Avengers 2",
+    "movielink": "https://www.justwatch.com/in/movie/avengers-age-of-ultron",
+    "image": "Avenger-2.jpg",
+    "video": "111.mp4",
+    "description": "The Avengers retrieve Loki’s scepter but accidentally create a powerful AI..."
+  },
+  {
+    "id": 12,
+    "catId": 7,
+    "title": "Antman-1",
+    "movielink": "https://www.justwatch.com/in/movie/ant-man",
+    "image": "Antman-1.jpg",
+    "video": "111.mp4",
+    "description": "Scott Lang, a skilled thief trying to turn his life around..."
+  },
+  {
+    "id": 13,
+    "catId": 4,
+    "title": "Captainamerica-3",
+    "movielink": "https://www.justwatch.com/in/movie/captain-america-civil-war",
+    "video": "111.mp4",
+    "image": "Captainamerica-3.jpg",
+    "description": "After a mission goes wrong, the government proposes the Sokovia Accords..."
+  },
+  {
+    "id": 18,
+    "catId": 10,
+    "title": "blackpanther 1",
+    "movielink": "https://www.justwatch.com/in/movie/black-panther",
+    "video": "111.mp4",
+    "image": "blackpanther-1.jpg",
+    "description": "After the death of his father, T’Challa returns to Wakanda..."
+  },
+  {
+    "id": 16,
+    "catId": 9,
+    "title": "Spiderman-1",
+    "movielink": "https://www.justwatch.com/in/movie/spider-man-homecoming",
+    "video": "111.mp4",
+    "image": "Spiderman-1.jpg",
+    "description": "After his battle alongside the Avengers in Captain America: Civil War..."
+  },
+  {
+    "id": 14,
+    "catId": 8,
+    "title": "Doctor Strange",
+    "movielink": "https://www.justwatch.com/in/movie/doctor-strange-2016",
+    "image": "DoctorStrange-1.jpg",
+    "video": "111.mp4",
+    "description": "Dr. Stephen Strange, a brilliant but arrogant neurosurgeon..."
+  },
+  {
+    "id": 17,
+    "catId": 3,
+    "title": "Thor-3",
+    "movielink": "https://www.justwatch.com/in/movie/thor-ragnarok",
+    "video": "111.mp4",
+    "image": "Thor-3.jpg",
+    "description": "Thor discovers that his long-lost sister, Hela, the Goddess of Death..."
+  },
+  {
+    "id": 20,
+    "catId": 7,
+    "title": "Antman 2",
+    "movielink": "https://www.justwatch.com/in/movie/ant-man-and-the-wasp",
+    "image": "Antman-2.jpg",
+    "video": "111.mp4",
+    "description": "Scott Lang, under house arrest after the events of Captain America: Civil War..."
+  },
+  {
+    "id": 19,
+    "catId": 5,
+    "title": "Avengers 3",
+    "movielink": "https://www.justwatch.com/in/movie/avengers-infinity-war",
+    "video": "111.mp4",
+    "image": "Avenger-3.jpg",
+    "description": "After Thanos wipes out half of all life with the Infinity Gauntlet..."
+  },
+  {
+    "id": 22,
+    "catId": 5,
+    "title": "Avenger-4",
+    "video": "111.mp4",
+    "movielink": "https://www.justwatch.com/in/movie/avengers-endgame",
+    "image": "Avenger-4.jpg",
+    "description": "After the events of Avengers: Endgame, Peter Parker struggles with Tony Stark’s death..."
+  },
+  {
+    "id": 23,
+    "catId": 9,
+    "title": "spider-2",
+    "movielink": "https://www.justwatch.com/in/movie/spider-man-far-from-home",
+    "video": "111.mp4",
+    "image": "spider-2.jpg",
+    "description": "After the events of Avengers: Endgame, Peter Parker struggles with Tony Stark’s death..."
+  }
+],
+      "Favourite": [
+
+        {
+          "id": 21,
+      "catId":11,
+      "title": "captainmarvel-1",
+      "movielink": "https://www.justwatch.com/in/movie/captain-marvel",
+      "video": "111.mp4",
+      "image": "captainmarvel-1.jpg",
+          "description": "Vers, a warrior of the Kree race, suffers from mysterious visions of a past she can’t remember. After crash-landing on Earth in the 1990s, she teams up with a young Nick Fury and discovers she was once Carol Danvers, a former Air Force pilot. She learns that the Kree have been manipulating her and that the Skrulls, their supposed enemies, are actually refugees seeking safety. Embracing her true identity, she unlocks her full powers and defeats the Kree forces. Carol then leaves Earth to help the Skrulls find a new home, while Fury begins laying the foundation for the Avengers Initiative."
+          
+          },
+
+          {
+             "id": 16,
+        "catId": 9,
+       "title": "Spiderman-1",
+       "movielink": "https://www.justwatch.com/in/movie/spider-man-homecoming",
+       "video": "111.mp4",
+      "image": "Spiderman-1.jpg",
+          "description": "After his battle alongside the Avengers in Captain America: Civil War, Peter Parker struggles to balance high school life with his superhero duties. Eager to prove himself to Tony Stark, he investigates illegal alien weapon sales linked to Adrian Toomes, aka the Vulture. When Peter discovers that Toomes is his crush Liz’s father, the stakes become personal. Defying Tony’s orders, he faces Vulture in a final battle and stops him from stealing advanced tech. Choosing responsibility over glory, Peter declines an offer to join the Avengers, proving he is more than just a 'friendly neighborhood Spider-Man."
+            
+        },
+        {
+          "id": 10,
+      "catId": 6,
+     "title": "Guardians of the galaxy 1",
+     "movielink": "https://www.justwatch.com/in/movie/guardians-of-the-galaxy",
+    "image": "Guardiansofthegalaxy-1.jpg",
+    "video": "111.mp4",
+         "description": "Space adventurer Peter Quill, also known as Star-Lord, steals a mysterious orb, making him the target of the ruthless warlord Ronan the Accuser. While on the run, he forms an unlikely team with assassin Gamora, warrior Drax the Destroyer, tech-savvy raccoon Rocket, and the gentle but powerful tree-like creature Groot. When they discover the orb contains the Infinity Stone, capable of immense destruction, they unite to stop Ronan from using it to destroy planets. In an epic battle, they defeat Ronan with the power of friendship and music, becoming the Guardians of the Galaxy.."
+          
+        },
+         {
+      "id": 11,
+      "catId": 5,
+      "title": "Avengers 2",
+      "movielink": "https://www.justwatch.com/in/movie/avengers-age-of-ultron",
+      "image": "Avenger-2.jpg",
+      "video": "111.mp4",
+      "description": "The Avengers retrieve Loki’s scepter but accidentally create a powerful AI, Ultron, when Tony Stark and Bruce Banner attempt to build a global defense system. Ultron turns against humanity, planning to wipe it out using an artificial meteor. Along the way, the Avengers encounter the super-powered twins, Wanda and Pietro Maximoff, as well as the synthetic android Vision, created from the Mind Stone. In a climactic battle, the Avengers defeat Ultron, but Pietro sacrifices himself, and the city of Sokovia is destroyed. The film ends with new heroes—Vision, Scarlet Witch, Falcon, and War Machine—joining the Avengers, setting the stage for future conflicts."
+    },{
+        "id": 12,
+        "catId": 7,
+        "title": "Antman-1",
+        "movielink": "https://www.justwatch.com/in/movie/ant-man",
+        "image": "Antman-1.jpg",
+        "video": "111.mp4",
+        "description": "Scott Lang, a skilled thief trying to turn his life around, is recruited by scientist Hank Pym to wear a powerful suit that allows him to shrink in size while increasing his strength. Trained by Hank and his daughter Hope van Dyne, Scott must stop Darren Cross, Hank’s former protégé, from mass-producing dangerous shrinking technology. With the help of his friends and his newfound abilities, Scott defeats Cross, who becomes the villainous Yellowjacket. In the end, he proves himself as a hero and hints at a new adventure involving the mysterious Quantum Realm."
+      },
+      {
+        "id": 13,
+        "catId": 4,
+       "title": "Captainamerica-3",
+       "movielink": "https://www.justwatch.com/in/movie/captain-america-civil-war",
+       "video": "Spiderman-1.mp4",
+      "image": "Captainamerica-3.jpg",
+      "description": "After a mission goes wrong, the government proposes the Sokovia Accords, which would place the Avengers under official oversight. This divides the team—Iron Man supports regulation, while Captain America opposes it, fearing loss of freedom. When Bucky Barnes (the Winter Soldier) is framed for a terrorist attack, Cap protects him, leading to a clash between the two factions. The conflict escalates when Zemo, the real mastermind, reveals that Bucky was brainwashed into killing Tony Stark’s parents. A brutal fight follows, leaving the Avengers fractured. Cap and his allies go into hiding, while Tony is left questioning everything, setting the stage for Avengers: Infinity War."
+        
+      },
+      {
+          "id": 14,
+          "catId": 8,
+        "title": "Doctor Strange",
+            "movielink": "https://www.justwatch.com/in/movie/doctor-strange-2016",
+        "image": "DoctorStrange-1.jpg",
+        "video": "111.mp4",
+          "description": "Dr. Stephen Strange, a brilliant but arrogant neurosurgeon, loses the use of his hands in a car accident. Desperate for a cure, he travels to Kamar-Taj, where he learns the mystical arts from the Ancient One. As he masters sorcery, he discovers a dark plot by Kaecilius, a rogue sorcerer seeking to unleash Dormammu, a powerful cosmic entity. Using intelligence and time manipulation, Strange outsmarts Dormammu and forces him to leave Earth. Accepting his new role as the Sorcerer Supreme, he protects reality from mystical threats, setting up his future battles in the Marvel universe."  
+      }
+    ]  
+  }
+  

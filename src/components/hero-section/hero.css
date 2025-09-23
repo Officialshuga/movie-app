@@ -1,0 +1,57 @@
+.hero-section{
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2.5rem;
+  flex-wrap: wrap;
+}
+.hero-img{
+  height: 500px;
+  width: 500px;
+}
+
+.hero-section-texts h2{
+  font-size: 5rem;
+  font-weight: 600;
+}
+.hero-section-btn{
+  width: 100%;
+  display: flex;
+  /* flex-wrap: wrap; */
+  gap: 3rem;
+}
+.hero-section-btn button{
+  width: 43%;
+  background-color: #E50914;
+  border-radius: 2rem;
+  color: white;
+  padding: 15px 25px;
+  font-size: 1rem;
+  font-weight: 700;
+}
+@media (max-width: 380px){
+  .hero-section{
+    flex-direction: column;
+    margin-top: 1rem;
+  }
+  .hero-img{
+    height: 300px;
+    width: 300px;
+  }
+  .hero-section-texts h2{
+    font-size: 3rem;
+    text-align: center;
+  }
+  .hero-section-btn{
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+  .hero-section-btn button{
+    width: 80%;
+    padding: 10px 15px;
+    font-size: 0.8rem;
+  }
+}

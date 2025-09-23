@@ -1,0 +1,32 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+::-webkit-scrollbar{
+  height: 2px;
+  width: 2px;
+}
+::-webkit-scrollbar-track{
+  background: transparent;
+}
+::-webkit-scrollbar-thumb{
+  background: rgb(219, 219, 219);
+}
+
+/* Global styles */
+body {
+  background-color: #141414;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+}
+button{
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+Link{
+  color: white;
+}
