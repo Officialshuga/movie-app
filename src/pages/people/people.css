@@ -29,3 +29,7 @@
     object-fit: cover;
     margin-bottom: 10px;
 }
+.people-card h3 a{
+    text-decoration: none;
+    color: white;
+}

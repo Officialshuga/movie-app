@@ -31,6 +31,10 @@
   font-size: 1rem;
   font-weight: 700;
 }
+.hero-section-btn button a{
+  color: white;
+  text-decoration: none;
+}
 @media (max-width: 380px){
   .hero-section{
     flex-direction: column;

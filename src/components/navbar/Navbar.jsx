@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from "../../../public/assets/logo.png";
+// import logo from "../../../public/assets/logo.png";
 import { FaSearch, FaBars, FaTimes } from "react-icons/fa";
 import "./navbar.css";
 import { Link } from "react-router-dom";
@@ -16,7 +16,7 @@ const Navbar = () => {
       {/* Logo */}
       <div className="logo-container">
         <Link to="/">
-          <img src={logo} alt="logo" />
+          <img src="./assets/logo.png" alt="logo" />
         </Link>
       </div>
 

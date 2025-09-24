@@ -10,7 +10,7 @@ const PopularPeople = () => {
             const data = await response.json();
             setPopularPeople(data.results);
             setLoading(false);
-            console.log(data.results[0]);
+            console.log(data.results);
         }catch(error){
             console.error('Error fetching data:', error);
             setLoading(false);
