@@ -6,7 +6,8 @@ import MovieDetails from './pages/movieDetails/MovieDetails.jsx'
 import SearchPage from './pages/searchpage/searchPage.jsx'
 import Error from './pages/error/Error.jsx'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home.jsx'
+import People from './pages/people/People.jsx'
+import PeopleDetails from './pages/peopleDetails/peopleDetails.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -17,6 +18,8 @@ createRoot(document.getElementById('root')).render(
       <Route path='/searchPage' element={<SearchPage />}/>
       <Route path='*' element={<Error />} />
       <Route path="searchpage" element={<SearchPage />} />
+      <Route path='people' element={<People/>}/>
+      <Route path='/peopledetails/:id' element={<PeopleDetails/>}/>
     </Routes>
     </BrowserRouter>
     {/* <App /> */}
