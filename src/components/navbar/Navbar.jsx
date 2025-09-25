@@ -1,5 +1,6 @@
 import { useState } from "react";
-// import logo from "../../../public/assets/logo.png";
+//import Logo from "../../../public/assets/logo.png";
+import Logo from "../../asset/logo.png";
 import { FaSearch, FaBars, FaTimes } from "react-icons/fa";
 import "./navbar.css";
 import { Link } from "react-router-dom";
@@ -16,7 +17,7 @@ const Navbar = () => {
       {/* Logo */}
       <div className="logo-container">
         <Link to="/">
-          <img src="./assets/logo.png" alt="logo" />
+          <img src={Logo} alt="logo" />
         </Link>
       </div>
 
@@ -28,8 +29,8 @@ const Navbar = () => {
           <li>
             <Link to="/search">Search</Link>
           </li>
-          <li>More</li>
-          <Link to="/searchPage">
+          {/* <li>More</li> */}
+          <Link to="/search">
             <FaSearch className="search-icon" />
           </Link>
         </ul>
